@@ -1,6 +1,8 @@
 # Hi there, I'm Dinis Caçador Martinho, a High School Student! 👋
 
+<p align="center">
 Hey there, I'm Dinis! The world of coding has always captivated my interest, providing an avenue to channel my creativity and explore endless possibilities through code. From the moment I wrote my first line of code, I was hooked. The ability to bring ideas to life through programming became my ultimate passion.
+</p>
 
 <p align="center">
   <a href="https://discordapp.com/users/Missing%20Profile%20Picture%236008"><img src="https://img.shields.io/badge/-Discord-blue?style=flat&logo=discord&logoColor=white" alt="Discord"></a>
