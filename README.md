@@ -8,7 +8,7 @@ Hey there, I'm Dinis! The world of coding has always captivated my interest, pro
   <a href="https://github.com/DinisMartinho"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 <p align="center">
-## Skills and Technologies
+ <h1>Skills and Technologies</h1>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#">
