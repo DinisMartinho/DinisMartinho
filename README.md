@@ -1,4 +1,4 @@
-<h1 align="center">👋</h1>
+<h1 align="center">👋😀</h1>
 
 <p align="center">
 Hey there, I'm Dinis! The world of coding has always captivated my interest, providing an avenue to channel my creativity and explore endless possibilities through code. From the moment I wrote my first line of code, I was hooked. The ability to bring ideas to life through programming became my ultimate passion.
