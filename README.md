@@ -1,43 +1,28 @@
+# Hi there, I'm Dinis Caçador Martinho, a High School Student! 👋
 
-# Hello there, I'm Dinis 👋
+Hey there, I'm Dinis! The world of coding has always captivated my interest, providing an avenue to channel my creativity and explore endless possibilities through code. From the moment I wrote my first line of code, I was hooked. The ability to bring ideas to life through programming became my ultimate passion.
 
-Welcome to my GitHub profile! I'm a 17-year-old with a deep passion for generative artificial intelligence. As an enthusiast of this cutting-edge technology, I also enjoy exploring my creative side through game development as a hobby.
+[![Discord](https://img.shields.io/badge/-Discord-blue?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/your-user-id)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:dinis.cacador.martinho@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/DinisMartinho)
 
-## About Me
+## Skills and Technologies
+- C# and Unity
+- Python
+- React.js
+- Tailwind CSS
+- HLSL
+- PyTorch
+- TensorFlow
 
-- 🔭 I’m currently working on [project here]
-- 🌱 I’m currently learning Procedural Animations using Maths and Shaders
+## Featured Project
+- [Diffusion-Powered Image Synthesis](https://github.com/DinisMartinho/Diffusion-Powered-Image-Synthesis): A project that utilizes diffusion models to generate high-quality images. Check it out!
 
-## Projects
+## Let's Connect
+Feel free to reach out if you have any questions, opportunities, or just want to say hi!
 
-Here are some highlights of my recent projects:
+- Discord: Missing Profile Picture#6008
+- Email: dinis.cacador.martinho@gmail.com
 
-- [Project 1]: Brief description and link
-- [Project 2]: Brief description and link
-- [Project 3]: Brief description and link
+> "The best way to predict the future is to create it." - Peter Drucker
 
-Check out my [GitHub repositories](https://github.com/DinisMartinho?tab=repositories) for more projects and contributions!
-
-## Skills
-
-- 🔥 [Skill 1]: Description and proficiency level
-- ⚡[Skill 2]: Description and proficiency level
-- ⭐[Skill 3]: Description and proficiency level
-
-## Open Source Contributions
-
-I'm an active contributor to open-source projects. Some of my notable contributions include:
-
-- [Contribution 1]: Brief description and link
-- [Contribution 2]: Brief description and link
-- [Contribution 3]: Brief description and link
-
-## Connect with Me
-
-Let's connect and collaborate! You can find me on:
-
-- 📷 [Fake Insta](LINK HERE)
-- 📧 [Fake Gmail](LINK HERE)
-- 💬 Discord: Missing Profile Picture#6008
-
-Feel free to reach out if you have any questions, ideas, or just want to say hi!
