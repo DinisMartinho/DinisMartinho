@@ -25,11 +25,3 @@ Hey there, I'm Dinis! The world of coding has always captivated my interest, pro
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow">
 </p>
 
-## Featured Project
-
-<p align="center">
-- [Diffusion-Powered Image Synthesis](https://github.com/DinisMartinho/Diffusion-Powered-Image-Synthesis): A project that utilizes diffusion models to generate high-quality images. Check it out!
-</p>
-
-> "The best way to predict the future is to create it." - Peter Drucker
-
