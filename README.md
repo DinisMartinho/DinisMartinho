@@ -24,11 +24,5 @@ Hey there, I'm Dinis! The world of coding has always captivated my interest, pro
 ## Featured Project
 - [Diffusion-Powered Image Synthesis](https://github.com/DinisMartinho/Diffusion-Powered-Image-Synthesis): A project that utilizes diffusion models to generate high-quality images. Check it out!
 
-## Let's Connect
-Feel free to reach out if you have any questions, opportunities, or just want to say hi!
-
-- Discord: Missing Profile Picture#6008
-- Email: dinis.cacador.martinho@gmail.com
-
 > "The best way to predict the future is to create it." - Peter Drucker
 
