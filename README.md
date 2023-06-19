@@ -7,9 +7,9 @@ Hey there, I'm Dinis! The world of coding has always captivated my interest, pro
   <a href="mailto:dinis.cacador.martinho@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/DinisMartinho"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
-
+<p align="center">
 ## Skills and Technologies
-
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white" alt="Unity">
