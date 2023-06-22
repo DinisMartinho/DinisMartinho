@@ -10,11 +10,8 @@ The world of coding has always captivated my interest, providing an avenue to ch
   <a href="https://github.com/DinisMartinho"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
-<div>
-</div>
-
 <p align="center">
-  <h1 align="center">Skills and Technologies</h1>
+  <h2 align="center">Skills and Technologies</h1>
 </p>
 
 <p align="center">
