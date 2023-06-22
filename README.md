@@ -1,4 +1,4 @@
-<h2 align="center">👋😀 Hey There, I'm Dinis!</h1>
+<h2 align="center">Hey There, I'm Dinis!</h2>
 
 <p align="center">
 The world of coding has always captivated my interest, providing an avenue to channel my creativity and explore endless possibilities through code. From the moment I wrote my first line of code, I was hooked. The ability to bring ideas to life through programming became my ultimate passion.
@@ -11,7 +11,7 @@ The world of coding has always captivated my interest, providing an avenue to ch
 </p>
 
 <p align="center">
-  <h2 align="center">Skills and Technologies</h1>
+  <h2 align="center">Skills and Technologies</h2>
 </p>
 
 <p align="center">
