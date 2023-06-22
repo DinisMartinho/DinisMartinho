@@ -1,7 +1,7 @@
 <h2 align="center">Hey there, I'm Dinis! 😀</h2>
 
 <p align="center">
-The world of coding has always captivated my interest, providing an avenue to channel my creativity and explore endless possibilities through code. From the moment I wrote my first line of code, I was hooked. The ability to bring ideas to life through programming became my ultimate passion.
+I'm passionate about the world of coding, where I can channel my creativity and explore endless possibilities through programming. From the moment I wrote my first line of code, I was captivated by the ability to bring ideas to life.
 </p>
 
 <p align="center">
@@ -10,9 +10,7 @@ The world of coding has always captivated my interest, providing an avenue to ch
   <a href="https://github.com/DinisMartinho"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
-<p align="center">
-  <h2 align="center">Skills and Technologies</h2>
-</p>
+<h2 align="center">Skills and Technologies</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#">
@@ -24,4 +22,3 @@ The world of coding has always captivated my interest, providing an avenue to ch
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow">
 </p>
-
