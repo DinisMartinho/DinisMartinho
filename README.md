@@ -16,6 +16,7 @@ I'm passionate about the world of coding, where I can channel my creativity and 
 
 <p float="left" align="middle">
 [![Dinis Martinho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DinisMartinho&show_icons=true&count_private=true&theme=radical)](https://github.com/DinisMartinho)
+  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DinisMartinho&langs_count=8&layout=compact&theme=radical)](https://github.com/DinisMartinho)
 </p>
 
