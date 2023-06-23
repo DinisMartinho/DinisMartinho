@@ -13,6 +13,11 @@ I'm passionate about the world of coding, where I can channel my creativity and 
 
 <h2 align="center">Skills and Technologies</h2>
 -->
+
+[![Dinis Martinho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DinisMartinho&show_icons=true&count_private=true&theme=radical)](https://github.com/DinisMartinho)
+
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white" alt="Unity">
