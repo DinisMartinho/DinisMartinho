@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DinisMartinho&show_icons=true&count_private=true&theme=radical" alt="Dinis Martinho's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinisMartinho&langs_count=8&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://komarev.com/ghpvc/?username=DinisMartinho" alt="Profile Views" />
+  <img src="![Dinis Martinho's Code Time Stats](https://codetime-api.datreks.com/badge/3720?logoColor=white%26project=%26recentMS=0%26showProject=false)" alt="" />
 </div>
 
 
