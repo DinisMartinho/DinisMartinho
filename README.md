@@ -1,12 +1,12 @@
 <div style="display: flex; flex-direction: row;">
   <div style="flex: 50%; padding-right: 10px;">
     
-    [![Dinis Martinho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DinisMartinho&show_icons=true&count_private=true&theme=radical)](https://github.com/DinisMartinho)
+[![Dinis Martinho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DinisMartinho&show_icons=true&count_private=true&theme=radical)](https://github.com/DinisMartinho)
     
   </div>
   <div style="flex: 50%; padding-left: 10px;">
     
-    [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DinisMartinho&langs_count=8&layout=compact&theme=radical)](https://github.com/DinisMartinho)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DinisMartinho&langs_count=8&layout=compact&theme=radical)](https://github.com/DinisMartinho)
     
   </div>
 </div>
