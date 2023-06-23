@@ -1,5 +1,5 @@
 <details>
-  <summary>Click to expand stats</summary>
+  <summary></summary>
     <div align="center">
   <!--<img src="https://github-readme-stats.vercel.app/api?username=DinisMartinho&show_icons=true&count_private=true&theme=radical" alt="Dinis Martinho's GitHub Stats" /> -->
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinisMartinho&langs_count=8&layout=compact&theme=radical" alt="Top Languages" />
