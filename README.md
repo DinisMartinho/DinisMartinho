@@ -3,13 +3,7 @@
     <div align="center">
   <!--<img src="https://github-readme-stats.vercel.app/api?username=DinisMartinho&show_icons=true&count_private=true&theme=radical" alt="Dinis Martinho's GitHub Stats" /> -->
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinisMartinho&langs_count=8&layout=compact&theme=radical" alt="Top Languages" />
-      <p>
-      👋 Welcome to my GitHub profile!
-
-I'm Dinis, a passionate 17-year-old hobbyist programmer with a creative flair. I'm deeply fascinated by the world of artificial intelligence and game development. Whether it's crafting intelligent algorithms or building captivating games, I'm always eager to explore and create.
-
-Join me on this exciting journey as I combine my programming skills with my imagination to bring AI and games to life. Together, let's embark on an adventure of coding and innovation! 🚀
-      </p>
+      
     </div>
 </details>
 
