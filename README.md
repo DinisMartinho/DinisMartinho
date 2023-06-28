@@ -3,7 +3,6 @@
   <summary></summary>
   <p>
 
-**Greetings!** I am Dinis Martinho, a 17-year-old coding enthusiast who thrives on bringing ideas to life through code. With a profound passion for machine learning and game development, I immerse myself in the thrilling realms of digital creation.
   
   </p>
 </details>
