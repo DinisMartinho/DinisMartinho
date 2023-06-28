@@ -2,8 +2,10 @@
 <details>
   <summary></summary>
   <p>
-Greetings! I am Dinis Martinho, a 17-year-old enthusiast who finds immense joy in bringing creations to life through code. My passion lies in the realms of machine learning and game development, while I am also delving into the captivating worlds of computer shaders and web development.       
-</p>
+
+**Greetings!** I am Dinis Martinho, a 17-year-old coding enthusiast who thrives on bringing ideas to life through code. With a profound passion for machine learning and game development, I immerse myself in the thrilling realms of digital creation.
+  
+  </p>
 </details>
 
 
