@@ -1,9 +1,9 @@
+
 <details>
   <summary></summary>
-    <div align="center">
-  <!--<img src="https://github-readme-stats.vercel.app/api?username=DinisMartinho&show_icons=true&count_private=true&theme=radical" alt="Dinis Martinho's GitHub Stats" /> -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinisMartinho&langs_count=8&layout=compact&theme=radical" alt="Top Languages" />
-      
+  <p>
+Greetings! I am Dinis Martinho, a 17-year-old enthusiast who finds immense joy in bringing creations to life through code. My passion lies in the realms of machine learning and game development, while I am also delving into the captivating worlds of computer shaders and web development.       
+</p>
 </details>
 
 
