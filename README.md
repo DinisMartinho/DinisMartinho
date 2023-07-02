@@ -2,8 +2,8 @@
 <details>
   <summary></summary>
   <p>
-
-  
+    Hello, I'm Dinis Martinho, a 17-year-old high school student with a passion for generative AI, game development, computer graphics, and web development. I have experience working with GANs and have explored applications such as image generation and style transfer. In addition to that, I've been actively involved in various computer vision tasks, including segmentation, classification, and object detection. Currently, I'm excited to be participating in the ongoing ARCADE (Automatic Region-based Coronary Artery Disease diagnostics using x-ray angiography images) challenge, where I'm applying my skills to contribute towards developing innovative solutions in the field of medical imaging. I'm always eager to learn and grow in these areas, and I'm enthusiastic about collaborating on projects that push the boundaries of technology.
+      
   </p>
 </details>
 
