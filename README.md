@@ -14,7 +14,7 @@ I'm Dinis Martinho, a 17-year-old high school student with a passion for **gener
 </details>
 
 
-<!-- 
+#<!-- 
 <p align="center">
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white" alt="Unity">
