@@ -5,9 +5,9 @@
   Greetings,
 </h4>
 
-I'm Dinis Martinho, an 18-year-old university student with a passion for **generative AI**, **game development**, **computer graphics**, and **web development**. I have experience working with **GANs** and **DDPMs** and have explored applications such as **image generation**, **style transfer** (including creating artistic images and transforming photographs), and **image inpainting**. In addition to that, I've been actively involved in various computer vision tasks, including **segmentation**, **classification**, and **object detection**. I've also had the opportunity to work with text models in the past, which expanded my skill set. 
+I'm Dinis Martinho, an 18-year-old university student with a passion for **generative AI**, **game development**, **computer graphics**, and **web development**. I have experience working with **GANs** and **DDPMs** and have explored applications such as **image generation**, **style transfer**, and **image inpainting**. In addition to that, I've been actively involved in various computer vision tasks, including **segmentation**, **classification**, and **object detection**. I've also had the opportunity to work with text models in the past, which expanded my skill set. 
 
-I've participated in several competitions and projects, constantly applying my skills to develop innovative solutions. One of my notable experiences was in the ARCADE (Automatic Region-based Coronary Artery Disease diagnostics using X-ray angiography images) competition, where I contributed to the field of medical imaging.
+I've participated in several competitions and projects, constantly applying my skills to develop innovative solutions. One of my notable experiences was in the ARCADE (Automatic Region-based Coronary Artery Disease diagnostics using X-ray angiography images) competition, where I was part of the fifth-placed team (TeamZero). Our team's collaborative effort and innovative approach contributed to our success in the competition, and it was a valuable experience that deepened my understanding of medical imaging and machine learning in a real-world context.
 
 <h4 align="right" class="bold">
   Updated: 28/10/2023
