@@ -6,9 +6,9 @@
 </div>
 <br>
 
-I'm Dinis Martinho, an 18-year-old university student with a passion for generative AI, game development, computer graphics, and web development. I have experience working with GANs and DDPMs and have explored applications such as image generation, style transfer, and image inpainting. In addition to that, I've been actively involved in various computer vision tasks, including segmentation, classification, and object detection. I've also had the opportunity to work with text models in the past, which expanded my skill set. 
+I'm Dinis Martinho, an 18-year-old university student with a passion for generative AI, game development, and computer graphics. I have hands-on experience with GANs and DDPMs, exploring applications such as image generation, style transfer, and image inpainting. Additionally, I've actively engaged in various computer vision tasks, including segmentation, classification, and object detection. My skill set extends to working with text models, broadening my expertise in machine learning.
 
-I've participated in several competitions and projects, constantly applying my skills to develop innovative solutions. One of my notable experiences was in the [ARCADE](https://arcade.grand-challenge.org/) (Automatic Region-based Coronary Artery Disease diagnostics using X-ray angiography images) competition, where I was part of the fifth-placed team **[( TeamZERO )](https://arcade.grand-challenge.org/teams/t/3329/)**. Our team's collaborative effort and innovative approach contributed to our success in the competition, and it was a valuable experience that deepened my understanding of medical imaging and machine learning in a real-world context.
+I've applied my skills in competitions and projects, contributing to innovative solutions. Notably, I participated in the [ARCADE](https://arcade.grand-challenge.org/) (Automatic Region-based Coronary Artery Disease diagnostics using X-ray angiography images)  competition as a member of the fifth-placed team **[( TeamZERO )](https://arcade.grand-challenge.org/teams/t/3329/)**. Our collaborative effort and innovative approach in the competition deepened my understanding of medical imaging and machine learning in a real-world context.
 
 <br>
 <div align="right" class="bold">
