@@ -2,17 +2,16 @@
   <summary></summary>
 
 <div align="left" class="bold">
-  Greetings,
+  Hello,
 </div>
 <br>
+I'm Dinis Martinho, an 18 year-old machine-learning enthusiast. My practical experience includes working with Generative Adversarial Networks and Denoising Diffusion Probabilistic Models for tasks like image generation, style transfer, and image inpainting. Engaging in computer vision tasks such as segmentation, classification, and object detection has allowed me to develop foundational skills.
 
-I'm Dinis Martinho, an 18-year-old university student with a passion for generative AI, game development, and computer graphics. I have hands-on experience with GANs and DDPMs, exploring applications such as image generation, style transfer, and image inpainting. Additionally, I've actively engaged in various computer vision tasks, including segmentation, classification, and object detection.
-
-I've applied my skills in competitions and projects, contributing to innovative solutions. Notably, I participated in the [ARCADE](https://arcade.grand-challenge.org/) (Automatic Region-based Coronary Artery Disease diagnostics using X-ray angiography images)  competition as a member of the fifth-placed team **[(TeamZERO)](https://arcade.grand-challenge.org/teams/t/3329/)**. Our collaborative effort and innovative approach in the competition deepened my understanding of medical imaging and machine learning in a real-world context.
+My most notable experience within this area involves contributing to the fifth-placed team, TeamZERO, during the MICCAI23 ARCADE competition. This collaborative effort not only provided me with valuable insights into the application of machine learning in real-world scenarios, especially in medical imaging contexts but also led to my active participation as one of the paper's authors, outlining the processes employed during the competition.
 
 <br>
 <div align="right" class="bold">
-  Updated: 19/11/2023
+  Updated: 29/12/2023
 </div>
 </details>
 
